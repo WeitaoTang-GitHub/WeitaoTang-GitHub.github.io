@@ -33,9 +33,6 @@ Research Interests
 - **Trustworthy and interpretable AI** for perinatal monitoring and medical decision support  
 - **Representation learning** for biomedical time-series (CNNs, RNNs, Transformers, contrastive learning)  
 
-
-News
-------
 News
 ------
 - **2025** – My poster *“Fetal Sleep Stage Classification Using Deep Learning”* received the **Best Poster Award 🏅** at **IEEE BHI 2025**.
