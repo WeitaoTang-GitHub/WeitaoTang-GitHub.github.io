@@ -27,34 +27,34 @@ author:
   name             : "Weitao Tang"
   pronouns         : "he/him"
   bio              : "Weitao Tang is a Ph.D. candidate in Artificial Intelligence in Medical Technology at Monash University, Australia, supported by a joint scholarship from Monash University and the U.S. National Institutes of Health (NIH)."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Melbourne, Australia"
+  employer         : "Monash University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Weitao.Tang1@monash.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=KKo5pxkAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-9228-7771"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Weitao-Tang-5"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/WeitaoTang-GitHub"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "http://linkedin.com/in/weitao-tang-1267a7245"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
