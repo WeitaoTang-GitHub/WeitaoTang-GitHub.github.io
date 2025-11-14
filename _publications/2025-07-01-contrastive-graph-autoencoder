@@ -1,0 +1,11 @@
+---
+title: "Contrastive Graph Auto-Encoder for Graph Embedding"
+collection: publications
+category: manuscripts
+permalink: /publication/contrastive-graph-autoencoder
+excerpt: "We propose a contrastive graph auto-encoder that learns high-quality node embeddings via joint reconstruction and contrastive objectives, achieving strong performance on graph representation learning benchmarks."
+date: 2025-07-01
+venue: "Neural Networks"
+paperurl: "https://doi.org/10.1016/j.neunet.2025.107367"   # 在这里填你期刊正式链接或 arXiv 链接
+---
+Graph embedding aims to embed the information of graph data into low-dimensional representation space. Prior methods generally suffer from an imbalance of preserving structural information and node features due to their pre-defined inductive biases, leading to unsatisfactory generalization performance. In order to preserve the maximal information, graph contrastive learning (GCL) has become a prominent technique for learning discriminative embeddings. However, in contrast with graph-level embeddings, existing GCL methods generally learn less discriminative node embeddings in a self-supervised way. In this paper, we ascribe above problem to two challenges: (1) graph data augmentations, which are designed for generating contrastive representations, hurt the original semantic information for nodes. (2) the nodes within the same cluster are selected as negative samples. To alleviate these challenges, we propose Contrastive Graph Auto-Encoder (CGAE) and Contrastive Variational Graph Auto-Encoder (CVGAE). Specifically, we first propose two distribution-dependent regularizations to guide the paralleled encoders to generate contrastive representations following similar distribution, followed by theoretical derivations to verify the equivalence of the above regularizations. Then, we utilize truncated triplet loss, which only selects top-k nodes as negative samples, to avoid over-separate nodes affiliated to the same cluster. Furthermore, we give theoretical analysis of the effectiveness of our models. Experiments on several real-world datasets show that our models advanced performance over all baselines in link prediction, node clustering, and graph visualization tasks.
