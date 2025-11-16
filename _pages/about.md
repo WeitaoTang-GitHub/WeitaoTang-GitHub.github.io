@@ -42,7 +42,7 @@ News
 - **2025** – Submitted *“FetalSleepNet: A Transfer Learning Framework with Spectral Equalisation Domain Adaptation for Fetal Sleep Stage Classification”* to **IEEE Journal of Biomedical and Health Informatics (JBHI)** *(SCI, JCR Q1, IF=6.7)*. (Under Review)
 - **2025** – Submitted *“Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification”* to **Sleep** *(SCI, JCR Q1, Top Sleep Medicine Journal, IF=4.9)*. (Minor Revision)
 - **2025** – Our paper *“Contrastive Graph Auto-Encoder for Graph Embedding”* was published in **Neural Networks** *(SCI, JCR Q1, IF=6.3)*.
-- **2024** – Our paper *“GuessKT: Improving Knowledge Tracing via Guess Behaviors”* was published in **IEEE ICASSP 2024**.
 - **2024** – Our paper *“Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep”* was published in **IEEE Sensors 2024**, held in **Kobe, Japan**.
-- **2024** – Joined collaborative fetal EEG–ECG–EMG research program with **Emory University** and **Georgia Tech**, supervised by Dr. Faezeh Marzbanrad, Dr. Robert Galinsky, Prof. Gari Clifford, and Dr. Nasim Katebi.  
+- **2024** – Our paper *“GuessKT: Improving Knowledge Tracing via Guess Behaviors”* was published in **IEEE ICASSP 2024**, held in **Seoul, Korea**.
+- **2024** – Joined collaborative fetal EEG–ECG–EMG research program with **Emory University** and **Georgia Tech**, supervised by Dr. Faezeh Marzbanrad, Dr. Robert Galinsky, Prof. Gari D. Clifford, and Dr. Nasim Katebi.  
 - **2023** – I was selected as one of the national recipients of the prestigious Stephen FitzGerald Scholars Program, funded by the National Foundation for Australia–China Relations (an initiative of the Australian Department of Foreign Affairs and Trade).
