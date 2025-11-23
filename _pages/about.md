@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Weitao Tang 唐惟韬 | AI & MedTech at Monash University"
+title: "唐惟韬 | 莫纳什大学人工智能与医疗技术博士在读"
 author_profile: true
 redirect_from: 
   - /about/
