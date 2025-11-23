@@ -24,25 +24,63 @@ Dr. Nasim Katebi — Emory University
 
 Together, this multidisciplinary team aims to advance AI-driven physiological monitoring, fetal neurodevelopment assessment, and early diagnosis in perinatal medicine.
 
-Research Interests
+🔬 Research Interests
 ------
-- **Fetal and neonatal sleep state classification** using deep learning  
-- **Multimodal physiological signal analysis** (EEG, ECG, EMG, Doppler, fetal movement)  
-- **Transfer learning and cross-species/domain adaptation** for fetal–neonatal signal generalization  
-- **Fetal hypoxia–ischemia detection** and early neurodevelopmental risk prediction  
-- **Trustworthy and interpretable AI** for perinatal monitoring and medical decision support  
-- **Representation learning** for biomedical time-series (CNNs, RNNs, Transformers, contrastive learning)  
 
-News
+- 💤 **Fetal and neonatal sleep state classification**  
+  Using deep learning for automated identification of fetal and neonatal behavioral states.
+
+- 🧠 **Multimodal physiological signal analysis**  
+  EEG, ECG, EMG, Doppler flow, and fetal movement for comprehensive fetal monitoring.
+
+- 🔁 **Transfer learning & cross-species/domain adaptation**  
+  Improving generalization between fetal–neonatal datasets and across species.
+
+- 🩺 **Fetal hypoxia–ischemia detection**  
+  Early prediction of neurodevelopmental risk from physiological signals.
+
+- 🤖 **Trustworthy & interpretable AI for perinatal care**  
+  Model robustness, transparency, and clinical decision support.
+
+- 📈 **Representation learning for biomedical time-series**  
+  CNNs, RNNs, Transformers, contrastive learning, and latent space modeling.
+
+
+# 🏆 Awards & Achievements
 ------
-- **2025** – Visiting Scholar, Emory University & Georgia Institute of Technology (USA)
-- **2025** – My poster *“Fetal Sleep Stage Classification Using Deep Learning”* received the **Best Poster Award 🏅** at **IEEE BHI 2025**.
-- **2025** – Awarded the **NSF–EMBS–Google Sponsored Young Professional NextGen Scholar** at **IEEE BHI 2025**, recognizing outstanding early-career researchers in biomedical informatics.
-- **2025** – My 1-page abstract *“Fetal Sleep Stage Classification Using Deep Learning”* was accepted to **IEEE BHI 2025** *(IEEE International Conference on Biomedical and Health Informatics)*, held in **Atlanta, USA**.
-- **2025** – Submitted *“FetalSleepNet: A Transfer Learning Framework with Spectral Equalisation Domain Adaptation for Fetal Sleep Stage Classification”* to **IEEE Journal of Biomedical and Health Informatics (JBHI)** *(SCI, JCR Q1, IF=6.7)*. (Under Review)
-- **2025** – Submitted *“Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification”* to **Sleep** *(SCI, JCR Q1, Top Sleep Medicine Journal, IF=4.9)*. (Minor Revision)
-- **2025** – Our paper *“Contrastive Graph Auto-Encoder for Graph Embedding”* was published in **Neural Networks** *(SCI, JCR Q1, IF=6.3)*.
-- **2024** – Our paper *“Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep”* was published in **IEEE Sensors 2024**, held in **Kobe, Japan**.
-- **2024** – Our paper *“GuessKT: Improving Knowledge Tracing via Guess Behaviors”* was published in **IEEE ICASSP 2024**, held in **Seoul, Korea**.
-- **2024** – Joined collaborative fetal EEG–ECG–EMG research program with **Emory University** and **Georgia Tech**, supervised by Dr. Faezeh Marzbanrad, Dr. Robert Galinsky, Prof. Gari D. Clifford, and Dr. Nasim Katebi.  
-- **2023** – I was selected as one of the national recipients of the prestigious Stephen FitzGerald Scholars Program, funded by the National Foundation for Australia–China Relations (an initiative of the Australian Department of Foreign Affairs and Trade).
+- 📚 **2025 — Visiting Scholar**, *Emory University* & *Georgia Institute of Technology*, USA
+
+- 🏅 **2025 — Best Poster Award**, IEEE BHI 2025  
+  *Poster:* “Fetal Sleep Stage Classification Using Deep Learning”  
+
+- 🌟 **2025 — NextGen Scholar Award**, NSF–EMBS–Google Sponsored Young Professional Program  
+  *Awarded at IEEE BHI 2025 for outstanding early-career researchers in biomedical informatics.*  
+
+- 📄 **2025 — Abstract Accepted**, IEEE BHI 2025  
+  *“Fetal Sleep Stage Classification Using Deep Learning”* — Atlanta, USA  
+
+- 📝 **2025 — Manuscript Under Review**, IEEE Journal of Biomedical and Health Informatics (JBHI)  
+  *“FetalSleepNet: A Transfer Learning Framework with Spectral Equalisation Domain Adaptation for Fetal Sleep Stage Classification”*  
+  *(SCI, JCR Q1, IF = 6.7)*  
+
+- 💤 **2025 — Minor Revision**, *Sleep*  
+  *“Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification”*  
+  *(SCI, JCR Q1, IF = 4.9, Top Sleep Medicine Journal)*  
+
+- 🧠 **2025 — Paper Published**, *Neural Networks*  
+  *“Contrastive Graph Auto-Encoder for Graph Embedding”*  
+  *(SCI, JCR Q1, IF = 6.3)*  
+
+- 🔬 **2024 — Paper Published**, *IEEE Sensors 2024* (Kobe, Japan)  
+  *“Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep”*  
+
+- 🎤 **2024 — Paper Published**, *IEEE ICASSP 2024* (Seoul, Korea)  
+  *“GuessKT: Improving Knowledge Tracing via Guess Behaviors”*  
+
+- 🤝 **2024 — Joined Fetal EEG–ECG–EMG Research Program**, Emory University × Georgia Tech  
+  *Supervisors: Dr. Faezeh Marzbanrad, Dr. Robert Galinsky, Prof. Gari Clifford, Dr. Nasim Katebi*  
+
+- 🇦🇺 **2023 — Stephen FitzGerald Scholar**  
+  National Foundation for Australia–China Relations  
+  *(Australian Department of Foreign Affairs and Trade)*  
+
