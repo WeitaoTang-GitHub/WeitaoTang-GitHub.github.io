@@ -81,6 +81,5 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
   *Supervisors: Dr. Faezeh Marzbanrad, Dr. Robert Galinsky, Prof. Gari Clifford, Dr. Nasim Katebi*  
 
 - 🇦🇺 **2023 — Stephen FitzGerald Scholar**  
-  National Foundation for Australia–China Relations  
-  *(Australian Department of Foreign Affairs and Trade)*  
+  I was selected as one of the national recipients of the prestigious Stephen FitzGerald Scholars Program, funded by the National Foundation for Australia–China Relations (an initiative of the Australian Department of Foreign Affairs and Trade).
 
