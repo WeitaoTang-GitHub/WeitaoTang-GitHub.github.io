@@ -46,7 +46,7 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
   CNNs, RNNs, Transformers, contrastive learning, and latent space modeling.
 
 
-# 🏆 Awards & Achievements
+🔥 News
 ------
 - 📚 **2025 — Visiting Scholar**, *Emory University* & *Georgia Institute of Technology*, USA
 
