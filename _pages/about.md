@@ -48,6 +48,11 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 
 🔥 News
 ------
+
+- 💤 **2025 — Paper Accepted**, *Sleep*  
+  *“Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification”*  
+  *(SCI, JCR Q1, IF = 4.9, Top Sleep Medicine Journal)*
+  
 - 🇺🇸 **2025 — Visiting Scholar**, *Emory University* & *Georgia Institute of Technology*, USA
 
 - 🏅 **2025 — Best Poster Award**, IEEE BHI 2025  
@@ -62,10 +67,6 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 - 📝 **2025 — Manuscript Under Review**, IEEE Journal of Biomedical and Health Informatics (JBHI)  
   *“FetalSleepNet: A Transfer Learning Framework with Spectral Equalisation Domain Adaptation for Fetal Sleep Stage Classification”*  
   *(SCI, JCR Q1, IF = 6.7)*  
-
-- 💤 **2025 — Minor Revision**, *Sleep*  
-  *“Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification”*  
-  *(SCI, JCR Q1, IF = 4.9, Top Sleep Medicine Journal)*  
 
 - 🧠 **2025 — Paper Published**, *Neural Networks*  
   *“Contrastive Graph Auto-Encoder for Graph Embedding”*  
