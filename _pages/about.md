@@ -51,7 +51,7 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 
 - 💤 **2025 — Paper Accepted**, *Sleep*  
   *“Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification”*  
-  *(SCI, JCR Q1, IF = 4.9, Top Sleep Medicine Journal)*
+  *(SCI, JCR Q1, IF = 5.4, Top Sleep Medicine Journal)*
   
 - 🇺🇸 **2025 — Visiting Scholar**, *Emory University* & *Georgia Institute of Technology*, USA
 
