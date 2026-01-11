@@ -57,7 +57,7 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 - 🇺🇸 **2025 — Visiting Scholar**, *Emory University* & *Georgia Institute of Technology*, USA  
   Collaborating on advanced fetal EEG–ECG–EMG research.
 
-- 📝 **2025 — Manuscript Under Review**, *IEEE JBHI* **“FetalSleepNet: A Transfer Learning Framework with Spectral Equalisation Domain Adaptation...”** *(SCI, JCR Q1, IF = 6.7)*
+- 📝 **2025 — Manuscript Under Review**, *IEEE JBHI* **“FetalSleepNet: A Transfer Learning Framework with Spectral Equalisation Domain Adaptation for Fetal Sleep Stage Classification”** *(SCI, JCR Q1, IF = 6.7)*
 
 - 🔬 **2024 — Paper Published**, *IEEE Sensors 2024* (Kobe, Japan)  
   **“Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep”**
