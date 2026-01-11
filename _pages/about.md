@@ -48,39 +48,43 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 
 🔥 News
 ------
+### 🎓 Ph.D. Research: Fetal Monitoring & AI (2024 – Present)
+*Focus: AI-driven Fetal Sleep Analysis, Hypoxia Detection & Physiological Sensing*
 
-- 💤 **2025 — Paper Accepted**, *Sleep*  
-  *“Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification”*  
-  *(SCI, JCR Q1, IF = 5.4, Top Sleep Medicine Journal)*
-  
-- 🇺🇸 **2025 — Visiting Scholar**, *Emory University* & *Georgia Institute of Technology*, USA
+- 💤 **2025 — Paper Accepted**, *Sleep* (Oxford University Press)  
+  **“Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification”** *(SCI, JCR Q1, IF = 5.4, Top-tier Sleep Medicine Journal)*
 
-- 🏅 **2025 — Best Poster Award**, IEEE BHI 2025  
-  *Poster:* “Fetal Sleep Stage Classification Using Deep Learning”  
+- 🇺🇸 **2025 — Visiting Scholar**, *Emory University* & *Georgia Institute of Technology*, USA  
+  Collaborating on advanced fetal EEG–ECG–EMG research.
 
-- 🌟 **2025 — NextGen Scholar Award**, NSF–EMBS–Google Sponsored Young Professional Program  
-  *Awarded at IEEE BHI 2025 for outstanding early-career researchers in biomedical informatics.*  
-
-- 📄 **2025 — Abstract Accepted**, IEEE BHI 2025  
-  *“Fetal Sleep Stage Classification Using Deep Learning”* — Atlanta, USA  
-
-- 📝 **2025 — Manuscript Under Review**, IEEE Journal of Biomedical and Health Informatics (JBHI)  
-  *“FetalSleepNet: A Transfer Learning Framework with Spectral Equalisation Domain Adaptation for Fetal Sleep Stage Classification”*  
-  *(SCI, JCR Q1, IF = 6.7)*  
-
-- 🧠 **2025 — Paper Published**, *Neural Networks*  
-  *“Contrastive Graph Auto-Encoder for Graph Embedding”*  
-  *(SCI, JCR Q1, IF = 6.3)*  
+- 📝 **2025 — Manuscript Under Review**, *IEEE JBHI* **“FetalSleepNet: A Transfer Learning Framework with Spectral Equalisation Domain Adaptation...”** *(SCI, JCR Q1, IF = 6.7)*
 
 - 🔬 **2024 — Paper Published**, *IEEE Sensors 2024* (Kobe, Japan)  
-  *“Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep”*  
+  **“Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep”**
+
+- 🤝 **2024 — Joined Fetal Research Program**, *Emory × Georgia Tech* Supervised by Dr. F. Marzbanrad, Dr. R. Galinsky, Prof. G. Clifford, and Dr. N. Katebi.
+
+---
+
+### 🎓 Master's Research: Machine Learning (Prior to 2024)
+*Focus: Contrastive Learning, Graph Embedding & Educational Data Mining*
+
+- 🧠 **2025 — Paper Published**, *Neural Networks* **“Contrastive Graph Auto-Encoder for Graph Embedding”** *(SCI, JCR Q1, IF = 6.3) — Note: Result of Master's research.*
 
 - 🎤 **2024 — Paper Published**, *IEEE ICASSP 2024* (Seoul, Korea)  
-  *“GuessKT: Improving Knowledge Tracing via Guess Behaviors”*  
+  **“GuessKT: Improving Knowledge Tracing via Guess Behaviors”**
 
-- 🤝 **2024 — Joined Fetal EEG–ECG–EMG Research Program**, Emory University × Georgia Tech  
-  *Supervisors: Dr. Faezeh Marzbanrad, Dr. Robert Galinsky, Prof. Gari Clifford, Dr. Nasim Katebi*  
+- ⚖️ **2024 — arXiv Preprint**, *Computer Science (Edu)* **“Fair Knowledge Tracing in Second Language Acquisition”** *Investigated algorithmic fairness across platforms (iOS/Android) and regions (Developed vs. Developing countries) using Duolingo datasets.* [arXiv:2412.18048]
 
-- 🇦🇺 **2023 — Stephen FitzGerald Scholar**  
+---
+
+# 🎖️ Honors & Awards
+
+- 🌟 **2025 — NextGen Scholar Award (NSF–EMBS–Google Sponsored)** Selected as a global recipient of the **"Next-Generation Young Scholar"** program at IEEE BHI 2025. This prestigious award is jointly sponsored by the **U.S. National Science Foundation (NSF)**, the **IEEE Engineering in Medicine and Biology Society (EMBS)**, and **Google**, recognizing outstanding early-career researchers with the potential to lead future innovations in biomedical informatics.
+
+- 🏅 **2025 — Best Poster Award**, *IEEE BHI 2025* (Atlanta, USA)  
+  Recognized by the conference committee for the work: *“Fetal Sleep Stage Classification Using Deep Learning,”* selected for its technical excellence and impact on fetal health monitoring.
+
+- 🇦🇺 **2023 — Stephen FitzGerald Scholar** National recipient of the scholars program funded by the *National Foundation for Australia–China Relations (DFAT)*.
   I was selected as one of the national recipients of the prestigious Stephen FitzGerald Scholars Program, funded by the National Foundation for Australia–China Relations (an initiative of the Australian Department of Foreign Affairs and Trade).
 
