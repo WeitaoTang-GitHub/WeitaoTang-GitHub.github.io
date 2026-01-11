@@ -48,7 +48,7 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 
 🔥 News
 ------
-### 🎓 Ph.D. Research: Fetal Monitoring & AI (2024 – Present)
+### 🎓 Ph.D. Research: AI & Fetal Monitoring  (2024 – Present)
 *Focus: AI-driven Fetal Sleep Analysis, Hypoxia Detection & Physiological Sensing*
 
 - 💤 **2025 — Paper Accepted**, *Sleep* (Oxford University Press)  
@@ -66,7 +66,7 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 
 ---
 
-### 🎓 Master's Research: Machine Learning (Prior to 2024)
+### 🎓 Master's Research: AI & Education  (Prior to 2024)
 *Focus: Contrastive Learning, Graph Embedding & Educational Data Mining*
 
 - 🧠 **2025 — Paper Published**, *Neural Networks* **“Contrastive Graph Auto-Encoder for Graph Embedding”** *(SCI, JCR Q1, IF = 6.3) — Note: Result of Master's research.*
