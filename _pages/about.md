@@ -85,6 +85,6 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 - 🏅 **2025 — Best Poster Award**, *IEEE BHI 2025* (Atlanta, USA)  
   Recognized by the conference committee for the work: *“Fetal Sleep Stage Classification Using Deep Learning,”* selected for its technical excellence and impact on fetal health monitoring.
 
-- 🇦🇺 **2023 — Stephen FitzGerald Scholar** National recipient of the scholars program funded by the *National Foundation for Australia–China Relations (DFAT)*.
+- 🇦🇺 **2023 — Stephen FitzGerald Scholar**  
   I was selected as one of the national recipients of the prestigious Stephen FitzGerald Scholars Program, funded by the National Foundation for Australia–China Relations (an initiative of the Australian Department of Foreign Affairs and Trade).
 
