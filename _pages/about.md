@@ -27,8 +27,8 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 🔬 Research Interests
 ------
 
-- 💤 **Fetal and neonatal sleep state classification**  
-  Using deep learning for automated identification of fetal and neonatal behavioral states.
+- 💤 **Adult, neonatal and fetal sleep state classification**  
+  Using deep learning for automated identification of adult, neonatal and fetal behavioral states.
 
 - 🧠 **Multimodal physiological signal analysis**  
   EEG, ECG, EMG, Doppler flow, and fetal movement for comprehensive fetal monitoring.
