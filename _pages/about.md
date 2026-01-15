@@ -34,7 +34,7 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
   EEG, ECG, EMG, Doppler flow, and fetal movement for comprehensive fetal monitoring.
 
 - 🔁 **Transfer learning & cross-species/domain adaptation**  
-  Improving generalization between fetal–neonatal datasets and across species.
+  Improving generalization between adult-neonatal-fetal datasets and across species.
 
 - 🩺 **Fetal hypoxia–ischemia detection**  
   Early prediction of neurodevelopmental risk from physiological signals.
@@ -51,7 +51,7 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 ### 🎓 Ph.D. Research: AI & Fetal Monitoring  (2024 – Present)
 *Focus: AI-driven Fetal Sleep Analysis, Hypoxia Detection & Physiological Sensing*
 
-- 💤 **2025 — Paper Accepted**, *Sleep* (Oxford University Press)  
+- 💤 **2026 — Paper Accepted**, *Sleep* (Oxford University Press)  
   **“Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification”** *(SCI, JCR Q1, IF = 5.4, Top-tier Sleep Medicine Journal)*
 
 - 🇺🇸 **2025 — Visiting Scholar**, *Emory University* & *Georgia Institute of Technology*, USA  
