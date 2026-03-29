@@ -52,12 +52,12 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 *Focus: AI-driven Fetal Sleep Analysis, Hypoxia Detection & Physiological Sensing*
 
 - 💤 **2026 — Paper Accepted**, *Sleep* (Oxford University Press)  
-  **“Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification”** *(SCI, JCR Q1, IF = 5.4, Top-tier Sleep Medicine Journal)*
+  **“Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification”** *(SCI, JCR Q1, IF = 5.4, Top-tier Sleep Medicine Journal, 医学2区TOP)*
 
 - 🇺🇸 **2025 — Visiting Scholar**, *Emory University* & *Georgia Institute of Technology*, USA  
   Collaborating on advanced fetal EEG–ECG–EMG research.
 
-- 📝 **2025 — Manuscript Under Review**, *IEEE JBHI* **“FetalSleepNet: A Transfer Learning Framework with Spectral Equalisation Domain Adaptation for Fetal Sleep Stage Classification”** *(SCI, JCR Q1, IF = 6.7)*
+- 📝 **2025 — Manuscript Under Minor Review**, *IEEE JBHI* **“FetalSleepNet: A Transfer Learning Framework with Spectral Equalisation Domain Adaptation for Fetal Sleep Stage Classification”** *(SCI, JCR Q1, IF = 6.7, 医学1区TOP)*
 
 - 🔬 **2024 — Paper Published**, *IEEE Sensors 2024* (Kobe, Japan)  
   **“Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep”**
@@ -69,7 +69,7 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 ### 🎓 Master's Research: AI & Education  (Prior to 2024)
 *Focus: Contrastive Learning, Graph Embedding & Educational Data Mining*
 
-- 🧠 **2025 — Paper Published**, *Neural Networks* **“Contrastive Graph Auto-Encoder for Graph Embedding”** *(SCI, JCR Q1, IF = 6.3) — Note: Result of Master's research.*
+- 🧠 **2025 — Paper Published**, *Neural Networks* **“Contrastive Graph Auto-Encoder for Graph Embedding”** *(SCI, JCR Q1, IF = 6.3, 计算机科学2区TOP) — Note: Result of Master's research.*
 
 - 🎤 **2024 — Paper Published**, *IEEE ICASSP 2024* (Seoul, Korea)  
   **“GuessKT: Improving Knowledge Tracing via Guess Behaviors”**
