@@ -51,13 +51,13 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 ### 🎓 Ph.D. Research: AI & Fetal Monitoring  (2024 – Present)
 *Focus: AI-driven Fetal Sleep Analysis, Hypoxia Detection & Physiological Sensing*
 
-- 💤 **2026 — Paper Accepted**, *Sleep* (Oxford University Press)  
+- 📝 **2026 — Paper Accepted**, *IEEE Journal of Biomedical Health Informatics (JBHI)* **“FetalSleepNet: A Transfer Learning Framework with Spectral Equalisation Domain Adaptation for Fetal Sleep Stage Classification”** *(SCI, JCR Q1, IF = 6.8, 医学1区TOP)*
+
+- 💤 **2026 — Paper Published**, *Sleep* (Oxford University Press)  
   **“Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification”** *(SCI, JCR Q1, IF = 5.4, Top-tier Sleep Medicine Journal, 医学2区TOP)*
 
 - 🇺🇸 **2025 — Visiting Scholar**, *Emory University* & *Georgia Institute of Technology*, USA  
   Collaborating on advanced fetal EEG–ECG–EMG research.
-
-- 📝 **2025 — Manuscript Under Minor Review**, *IEEE JBHI* **“FetalSleepNet: A Transfer Learning Framework with Spectral Equalisation Domain Adaptation for Fetal Sleep Stage Classification”** *(SCI, JCR Q1, IF = 6.7, 医学1区TOP)*
 
 - 🔬 **2024 — Paper Published**, *IEEE Sensors 2024* (Kobe, Japan)  
   **“Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep”**
