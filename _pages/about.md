@@ -59,6 +59,9 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 - 🇺🇸 **2025 — Visiting Scholar**, *Emory University* & *Georgia Institute of Technology*, USA  
   Collaborating on advanced fetal EEG–ECG–EMG research.
 
+- 🇺🇸 **2025 — 1-Page Abstract Accpeted**, *IEEE BHI*, (Atlanta, USA)  
+  **“Fetal Sleep State Classification Using Deep Learning.”**
+
 - 🔬 **2024 — Paper Published**, *IEEE Sensors 2024* (Kobe, Japan)  
   **“Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep”**
 
