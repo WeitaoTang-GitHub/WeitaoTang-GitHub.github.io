@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/fetalsleepnet-domain-adaptation
 excerpt: "FetalSleepNet transfers adult sleep EEG knowledge to fetal sheep EEG using spectral equalisation and domain adaptation, improving cross-species fetal sleep stage classification."
 date: 2025-09-12
-venue: "IEEE Journal of Biomedical and Health Informatics (under review)"
+venue: "IEEE Journal of Biomedical and Health Informatics (Accepted)"
 paperurl: "https://arxiv.org/abs/2509.10082"
 ---
 Introduction: This study presents FetalSleepNet, the first published deep learning approach to classifying sleep states from the ovine electroencephalogram (EEG). Fetal EEG is complex to acquire and difficult and laborious to interpret consistently. However, accurate sleep stage classification may aid in the early detection of abnormal brain maturation associated with pregnancy complications (e.g. hypoxia or intrauterine growth restriction).
