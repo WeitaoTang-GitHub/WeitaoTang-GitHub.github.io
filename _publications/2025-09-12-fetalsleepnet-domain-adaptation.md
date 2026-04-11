@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/fetalsleepnet-domain-adaptation
 excerpt: "FetalSleepNet transfers adult sleep EEG knowledge to fetal sheep EEG using spectral equalisation and domain adaptation, improving cross-species fetal sleep stage classification."
-date: 2025-09-12
+date: 2026-04-08
 venue: "IEEE Journal of Biomedical and Health Informatics"
 paperurl: "https://ieeexplore.ieee.org/document/11478039"
 ---
