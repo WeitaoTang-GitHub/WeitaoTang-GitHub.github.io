@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
+Welcome! 👋
 ======
+Weitao Tang is a Ph.D. candidate in Artificial Intelligence in Medical Technology at Monash University, Australia. Prior to his doctoral studies, he earned a Master of Data Science from Monash University, specializing in Artificial Intelligence in Education, and a Bachelor of Science (Honours) in Computer Science from the University of Nottingham Ningbo China (UNNC), where he focused on Computer Vision.
 
-Weitao Tang is a Ph.D. candidate in Artificial Intelligence in Medical Technology at Monash University, Australia. He is supported by the Faculty of Engineering International Postgraduate Research Scholarship (FEIPRS) and the Ex Animo Scholarship for Engineering (EASE), with an additional research top-up funded by the U.S. National Institutes of Health (NIH). His research focuses on biomedical signal processing and machine learning, with an emphasis on applying deep learning and transfer learning to fetal EEG, ECG, and EMG for sleep state classification and hypoxia–ischemia detection.
+Currently, he is supported by the Faculty of Engineering International Postgraduate Research Scholarship (FEIPRS) and the Ex Animo Scholarship for Engineering (EASE), with an additional research top-up funded by the U.S. National Institutes of Health (NIH). His research focuses on biomedical signal processing and machine learning, with an emphasis on applying deep learning and transfer learning to fetal EEG, ECG, and EMG for sleep state classification and hypoxia–ischemia detection.
 
 He works collaboratively across several institutions, including Emory University and the Georgia Institute of Technology, and is jointly supervised by:
 
