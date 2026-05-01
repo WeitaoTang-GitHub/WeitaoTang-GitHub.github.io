@@ -15,10 +15,10 @@ Currently, he is supported by the Faculty of Engineering International Postgradu
 
 He works collaboratively across several institutions, including Emory University and the Georgia Institute of Technology, and is jointly supervised by:
 
-*   [**Dr. Faezeh Marzbanrad**](https://research.monash.edu/en/persons/faezeh-marzbanrad) — Monash University
-*   [**Dr. Robert Galinsky**](https://www.hudson.org.au/scientists-clinicians/dr-robert-galinsky/) — Hudson Institute of Medical Research & Monash University
-*   [**Prof. Gari D. Clifford**](https://www.bmi.emory.edu/clifford/) — Emory University & Georgia Institute of Technology
-*   [**Dr. Nasim Katebi**](https://scholar.google.com/citations?user=your_link_here) — Emory University
+*   [**Dr. Faezeh Marzbanrad**](https://www.monash.edu/bspl) — Monash University
+*   [**Dr. Robert Galinsky**](https://hudson.org.au/researcher-profile/robert-galinsky/) — Hudson Institute of Medical Research & Monash University
+*   [**Prof. Gari D. Clifford**](https://gdclifford.info/gari) — Emory University & Georgia Institute of Technology
+*   [**Dr. Nasim Katebi**](https://med.emory.edu/directory/profile/?u=NKATEBI) — Emory University
 
 Together, this multidisciplinary team aims to advance AI-driven physiological monitoring, fetal neurodevelopment assessment, and early diagnosis in perinatal medicine.
 
