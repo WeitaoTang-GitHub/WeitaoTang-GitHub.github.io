@@ -11,7 +11,7 @@ Welcome! 👋
 ======
 Weitao Tang is a Ph.D. candidate in Artificial Intelligence in Medical Technology at Monash University, Australia. Prior to his doctoral studies, he earned a Master of Data Science from Monash University, specializing in Artificial Intelligence in Education, and a Bachelor of Science (Honours) in Computer Science from the University of Nottingham Ningbo China (UNNC), where he focused on Computer Vision.
 
-Currently, he is supported by the Faculty of Engineering International Postgraduate Research Scholarship (FEIPRS) and the Ex Animo Scholarship for Engineering (EASE) at Monash University, with an additional research top-up funded by the U.S. National Institutes of Health (NIH). His research focuses on biomedical signal processing and machine learning, with an emphasis on applying deep learning and transfer learning to fetal EEG, ECG, and EMG for sleep state classification and hypoxia–ischemia detection.
+Currently, he is supported by the Faculty of Engineering International Postgraduate Research Scholarship (FEIPRS) and the Ex Animo Scholarship for Engineering (EASE) at Monash University, with an additional research top-up funded by the U.S. National Institutes of Health (NIH). His research focuses on biomedical signal processing and machine learning, with an emphasis on applying deep learning and transfer learning to fetal electroencephalogram (EEG)🧠, electrocardiogram (ECG) 🫀, and electromyography (EMG) 💪 for sleep state classification 💤 and hypoxia–ischemia detection ⚠️.
 
 He works collaboratively across several institutions, including Emory University and the Georgia Institute of Technology, and is jointly supervised by:
 
@@ -29,7 +29,7 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
   Using deep learning for automated identification of adult, neonatal and fetal behavioral states.
 
 - 🧠 **Multimodal physiological signal analysis**  
-  EEG, ECG, EMG, Doppler flow, and fetal movement for comprehensive fetal monitoring.
+  EEG, ECG, EMG, and heart rate variability for comprehensive fetal monitoring.
 
 - 🔁 **Transfer learning & cross-species/domain adaptation**  
   Improving generalization between adult-neonatal-fetal datasets and across species.
