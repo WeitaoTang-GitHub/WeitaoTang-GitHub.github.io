@@ -84,8 +84,9 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 # 🎖️ Honors & Awards
 
 - 🌟 **2025 — NextGen Scholar Award (NSF–EMBS–Google Sponsored)** Selected as a global recipient of the **"Next-Generation Young Scholar"** program at IEEE BHI 2025. This prestigious award is jointly sponsored by the **U.S. National Science Foundation (NSF)**, the **IEEE Engineering in Medicine and Biology Society (EMBS)**, and **Google**, recognizing outstanding early-career researchers with the potential to lead future innovations in biomedical informatics.
-  <img width="4032" height="3024" alt="IEEE BHI NextGen Scholar_1" src="https://github.com/user-attachments/assets/6989fe7c-4d5c-4c8f-b0ce-2a39955d9ad0" />
+  <img width="5712" height="4284" alt="Pre3" src="https://github.com/user-attachments/assets/34b8eadd-f95e-4d65-a297-ca5552fd64ca" />
 
+  
 
 - 🏅 **2025 — Best Poster Award**, *IEEE BHI 2025* (Atlanta, USA)  
   Recognized by the conference committee for the work: *“Fetal Sleep Stage Classification Using Deep Learning,”* selected for its technical excellence and impact on fetal health monitoring.
