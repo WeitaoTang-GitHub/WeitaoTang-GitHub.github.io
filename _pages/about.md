@@ -1,4 +1,4 @@
----
+<img width="4032" height="3024" alt="IEEE BHI NextGen Scholar_1" src="https://github.com/user-attachments/assets/fb74a318-012e-4cc6-acd9-18e58b3e6537" />---
 permalink: /
 title: "唐惟韬 | 莫纳什大学人工智能与医疗技术博士在读"
 author_profile: true
@@ -82,9 +82,15 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 # 🎖️ Honors & Awards
 
 - 🌟 **2025 — NextGen Scholar Award (NSF–EMBS–Google Sponsored)** Selected as a global recipient of the **"Next-Generation Young Scholar"** program at IEEE BHI 2025. This prestigious award is jointly sponsored by the **U.S. National Science Foundation (NSF)**, the **IEEE Engineering in Medicine and Biology Society (EMBS)**, and **Google**, recognizing outstanding early-career researchers with the potential to lead future innovations in biomedical informatics.
+  <img width="4032" height="3024" alt="IEEE BHI NextGen Scholar_1" src="https://github.com/user-attachments/assets/6989fe7c-4d5c-4c8f-b0ce-2a39955d9ad0" />
+
 
 - 🏅 **2025 — Best Poster Award**, *IEEE BHI 2025* (Atlanta, USA)  
   Recognized by the conference committee for the work: *“Fetal Sleep Stage Classification Using Deep Learning,”* selected for its technical excellence and impact on fetal health monitoring.
+  <img width="4032" height="3024" alt="IEEE BHI NextGen Scholar_1" src="https://github.com/user-attachments/assets/d1cf0959-8f73-4af8-a852-57b061f6afac" />
+  <img width="4032" height="3024" alt="Award in Georgia Tech" src="https://github.com/user-attachments/assets/cf65f8ce-2627-47c3-b8d0-d6992a7cf55c" />
+
+
 
 - 🇦🇺 **2023 — Stephen FitzGerald Scholar**  
   I was selected as one of the national recipients of the prestigious Stephen FitzGerald Scholars Program, funded by the National Foundation for Australia–China Relations (an initiative of the Australian Department of Foreign Affairs and Trade).
