@@ -89,8 +89,10 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 
 - 🏅 **2025 — Best Poster Award**, *IEEE BHI 2025* (Atlanta, USA)  
   Recognized by the conference committee for the work: *“Fetal Sleep Stage Classification Using Deep Learning,”* selected for its technical excellence and impact on fetal health monitoring.
-  <img width="4032" height="3024" alt="Best Poster Award Certificate" src="https://github.com/user-attachments/assets/f233fb3d-bc4c-461c-890b-b6d183dd75de" />
-  <img width="4032" height="3024" alt="Award in Georgia Tech" src="https://github.com/user-attachments/assets/cf65f8ce-2627-47c3-b8d0-d6992a7cf55c" />
+  <div style="display: flex; gap: 10px;">
+    <img width="49%" alt="Best Poster Award Certificate" src="https://github.com/user-attachments/assets/f233fb3d-bc4c-461c-890b-b6d183dd75de" />
+    <img width="49%" alt="Award in Georgia Tech" src="https://github.com/user-attachments/assets/cf65f8ce-2627-47c3-b8d0-d6992a7cf55c" />
+  </div>
 
 
 
