@@ -9,9 +9,11 @@ redirect_from:
 
 Welcome! 👋
 ======
-Weitao Tang is a Ph.D. candidate in Artificial Intelligence in Medical Technology at Monash University, Australia. Prior to his doctoral studies, he earned a Master of Data Science from Monash University, specializing in Artificial Intelligence in Education, and a Bachelor of Science (Honours) in Computer Science from the University of Nottingham Ningbo China (UNNC), where he focused on Computer Vision.
+I am a Ph.D. candidate specializing in **Artificial Intelligence in Medical Technology** at the Department of Electrical and Computer Systems Engineering, **Monash University**, Australia. Prior to my doctoral journey, I earned a Master of Data Science from Monash University (focusing on Educational Data Mining) and a Bachelor of Science (Honours) in Computer Science from the University of Nottingham Ningbo China (UNNC), specializing in Computer Vision.
 
-Currently, he is supported by the Faculty of Engineering International Postgraduate Research Scholarship (FEIPRS) and the Ex Animo Scholarship for Engineering (EASE) at Monash University, with an additional research top-up funded by the U.S. National Institutes of Health (NIH). His research focuses on biomedical signal processing and machine learning, with an emphasis on applying deep learning and transfer learning to fetal electroencephalogram (EEG)🧠, electrocardiogram (ECG) 🫀, and electromyography (EMG) 💪 for sleep state classification 💤 and hypoxia–ischemia detection ⚠️.
+My doctoral research bridges advanced machine learning and perinatal medicine. I focus on **biomedical time-series analysis, deep transfer learning, and domain adaptation**, specifically processing multimodal signals—such as fetal Electroencephalogram (EEG) 🧠, Electrocardiogram (ECG) 🫀, and Electromyography (EMG) 💪—for automated sleep state classification 💤 and hypoxia–ischemia detection ⚠️. 
+
+> 🎓 **Funding & Support:** My research is fully supported by the Faculty of Engineering International Postgraduate Research Scholarship (**FEIPRS**) and the Ex Animo Scholarship for Engineering (**EASE**), with an additional research top-up funded by the **U.S. National Institutes of Health (NIH)**.
 
 He works collaboratively across several institutions, including Emory University and the Georgia Institute of Technology, and is jointly supervised by:
 
@@ -57,7 +59,7 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 - 🇺🇸 **2025 — Visiting Scholar**, *Emory University* & *Georgia Institute of Technology*, USA  
   Collaborating on advanced fetal EEG–ECG–EMG research.
 
-- 🇺🇸 **2025 — 1-Page Abstract Accpeted**, *IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’25)*, (Atlanta, USA)  
+- 🇺🇸 **2025 — 1-Page Abstract Accepted**, *IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’25)*, (Atlanta, USA)  
   **“Fetal Sleep State Classification Using Deep Learning.”**
 
 - 🔬 **2024 — Paper Published**, *IEEE Sensors 2024* (Kobe, Japan)  
@@ -94,4 +96,6 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 
 - 🇦🇺 **2023 — Stephen FitzGerald Scholar**  
   I was selected as one of the national recipients of the prestigious Stephen FitzGerald Scholars Program, funded by the National Foundation for Australia–China Relations (an initiative of the Australian Department of Foreign Affairs and Trade).
+  <img width="4032" height="3024" alt="Stephen FitzGerald Scholarship Program" src="https://github.com/user-attachments/assets/5e1aed5b-728b-4ded-996a-fe16a4059f34" />
+
 
