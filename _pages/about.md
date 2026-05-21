@@ -1,4 +1,4 @@
-<img width="4032" height="3024" alt="IEEE BHI NextGen Scholar_1" src="https://github.com/user-attachments/assets/fb74a318-012e-4cc6-acd9-18e58b3e6537" />---
+---
 permalink: /
 title: "唐惟韬 | 莫纳什大学人工智能与医疗技术博士在读"
 author_profile: true
