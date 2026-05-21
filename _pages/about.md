@@ -90,10 +90,28 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 
 - 🏅 **2025 — Best Poster Award**, *IEEE BHI 2025* (Atlanta, USA)  
   Recognized by the conference committee for the work: *“Fetal Sleep Stage Classification Using Deep Learning,”* selected for its technical excellence and impact on fetal health monitoring.
-  <div style="display: flex; gap: 10px;">
-    <img width="49%" alt="Best Poster Award Certificate" src="https://github.com/user-attachments/assets/f233fb3d-bc4c-461c-890b-b6d183dd75de" />
-    <img width="49%" alt="Award in Georgia Tech" src="https://github.com/user-attachments/assets/cf65f8ce-2627-47c3-b8d0-d6992a7cf55c" />
-  </div>
+<!-- 第一组：荣誉见证（证书 + 领奖现场） -->
+<div style="display: flex; gap: 10px; margin-bottom: 10px; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/f233fb3d-bc4c-461c-890b-b6d183dd75de" alt="Best Poster Award Certificate" style="width: 49.5%; border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="https://github.com/user-attachments/assets/cf65f8ce-2627-47c3-b8d0-d6992a7cf55c" alt="Award in Georgia Tech" style="width: 49.5%; border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
+
+<details>
+  <summary>📸 View Photos from the Conference</summary>
+  <br>
+  <table style="border: none; border-collapse: collapse; width: 100%;">
+    <tr style="border: none;">
+      <td style="border: none; width: 50%; padding-right: 7px;">
+        <img alt="Me" src="https://github.com/user-attachments/assets/a9e2e0f4-2b54-417e-b31e-83224db86986" style="max-width: 100%; height: auto; display: block; border-radius: 6px;" />
+      </td>
+      <td style="border: none; width: 50%; padding-left: 7px;">
+        <img alt="Photo with Gari and Nasim" src="https://github.com/user-attachments/assets/421fb313-9838-4dee-a534-fb4da7eedadd" style="max-width: 100%; height: auto; display: block; border-radius: 6px;" />
+      </td>
+    </tr>
+  </table>
+</details>
+
+
 
 
 
