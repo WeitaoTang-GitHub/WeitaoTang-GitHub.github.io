@@ -51,10 +51,10 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 ### 🎓 Ph.D. Research: AI & Fetal Monitoring  (2024 – Present)
 *Focus: AI-driven Fetal Sleep Analysis, Hypoxia Detection & Physiological Sensing*
 
-- 📝 **2026 — Paper Published**, *IEEE Journal of Biomedical Health Informatics (JBHI)* **“FetalSleepNet: A Transfer Learning Framework with Spectral Equalisation Domain Adaptation for Fetal Sleep Stage Classification”** *(SCI, JCR Q1, IF = 6.8, 医学1区TOP)*
+- 📝 **2026 — Paper Published**, *IEEE Journal of Biomedical Health Informatics (JBHI)* **“FetalSleepNet: A Transfer Learning Framework with Spectral Equalisation Domain Adaptation for Fetal Sleep Stage Classification”** *(SCI, JCR Q1, IF = 7.7, 医学1区TOP)*
 
 - 💤 **2026 — Paper Published**, *Sleep* (Oxford University Press)  
-  **“Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification”** *(SCI, JCR Q1, IF = 5.4, Top-tier Sleep Medicine Journal, 医学2区TOP)*
+  **“Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification”** *(SCI, JCR Q1, IF = 7.0, Top-tier Sleep Medicine Journal, 医学2区TOP)*
 
 - 🇺🇸 **2025 — Visiting Scholar**, *Emory University* & *Georgia Institute of Technology*, USA  
   Collaborating on advanced fetal EEG–ECG–EMG research.
@@ -72,7 +72,7 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 ### 🎓 Master's Research: AI & Education  (Prior to 2024)
 *Focus: Contrastive Learning, Graph Embedding & Educational Data Mining*
 
-- 🧠 **2025 — Paper Published**, *Neural Networks* **“Contrastive Graph Auto-Encoder for Graph Embedding”** *(SCI, JCR Q1, IF = 6.3, 计算机科学2区TOP) — Note: Result of Master's research.*
+- 🧠 **2025 — Paper Published**, *Neural Networks* **“Contrastive Graph Auto-Encoder for Graph Embedding”** *(SCI, JCR Q1, IF = 7.2, 计算机科学2区TOP) — Note: Result of Master's research.*
 
 - 🎤 **2024 — Paper Published**, *IEEE ICASSP 2024* (Seoul, Korea)  
   **“GuessKT: Improving Knowledge Tracing via Guess Behaviors”**
