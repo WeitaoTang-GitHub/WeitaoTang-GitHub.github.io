@@ -112,11 +112,23 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 </details>
 
 
-
-
-
 - 🇦🇺 **2023 — Stephen FitzGerald Scholar**  
   I was selected as one of the national recipients of the prestigious Stephen FitzGerald Scholars Program, funded by the National Foundation for Australia–China Relations (an initiative of the Australian Department of Foreign Affairs and Trade).
   <img width="4032" height="3024" alt="Stephen FitzGerald Scholarship Program" src="https://github.com/user-attachments/assets/5e1aed5b-728b-4ded-996a-fe16a4059f34" />
+
+
+---
+
+# 🤝 Academic Services
+
+- **Program Committee (PC) Member**
+  - *IEEE International Conference on Adaptive Intelligence, Modeling and Simulation (ICAIMS) 2026*
+
+- **Peer Reviewer**
+  - *IEEE Journal of Biomedical and Health Informatics (JBHI)*
+  - *Scientific Reports*
+  - *Computing in Cardiology (CinC) Conference*
+
+
 
 
