@@ -129,6 +129,16 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
   - *Scientific Reports*
   - *Computing in Cardiology (CinC) Conference*
 
+ ---
+
+# 📬 Contact
+
+Feel free to reach out for academic collaborations, research discussions, or professional opportunities:
+
+- **Monash University:** [Weitao.Tang1@monash.edu](mailto:Weitao.Tang1@monash.edu)
+- **Emory University:** [WTANG31@emory.edu](mailto:WTANG31@emory.edu)
+- **Personal:** [weitaotang340@gmail.com](mailto:weitaotang340@gmail.com)
+
 
 
 
