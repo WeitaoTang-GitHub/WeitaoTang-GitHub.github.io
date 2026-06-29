@@ -121,6 +121,9 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 
 # 🤝 Academic Services
 
+- **Topic Coordinator**
+  - *Frontiers in Digital Health* (2026 – Present)
+
 - **Program Committee (PC) Member**
   - *IEEE International Conference on Adaptive Intelligence, Modeling and Simulation (ICAIMS) 2026*
 
