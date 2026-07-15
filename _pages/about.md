@@ -17,7 +17,7 @@ My doctoral research bridges advanced machine learning and perinatal medicine. I
 
 He works collaboratively across several institutions, including Emory University and the Georgia Institute of Technology, and is jointly supervised by:
 
-*   [**Dr. Faezeh Marzbanrad**](https://www.monash.edu/bspl) — Monash University
+*   [**Assoc. Prof. Faezeh Marzbanrad**](https://www.monash.edu/bspl) — Monash University
 *   [**Dr. Robert Galinsky**](https://hudson.org.au/researcher-profile/robert-galinsky/) — Hudson Institute of Medical Research & Monash University
 *   [**Prof. Gari D. Clifford**](https://gdclifford.info/gari) — Emory University & Georgia Institute of Technology
 *   [**Dr. Nasim Katebi**](https://med.emory.edu/directory/profile/?u=NKATEBI) — Emory University
