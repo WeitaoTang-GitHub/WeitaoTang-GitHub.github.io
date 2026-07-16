@@ -65,7 +65,7 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
 - 🔬 **2024 — Paper Published**, *IEEE Sensors 2024* (Kobe, Japan)  
   **“Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep”**
 
-- 🤝 **2024 — Joined Fetal Research Program**, *Emory × Georgia Tech* Supervised by Dr. F. Marzbanrad, Dr. R. Galinsky, Prof. G. Clifford, and Dr. N. Katebi.
+- 🤝 **2024 — Joined Fetal Research Program**, *Emory × Georgia Tech* Supervised by Assoc. Prof. F. Marzbanrad, Dr. R. Galinsky, Prof. G. Clifford, and Dr. N. Katebi.
 
 ---
 
