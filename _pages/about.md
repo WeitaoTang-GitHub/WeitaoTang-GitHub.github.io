@@ -128,6 +128,7 @@ Together, this multidisciplinary team aims to advance AI-driven physiological mo
   - *IEEE Journal of Biomedical and Health Informatics (JBHI)*
   - *Scientific Reports*
   - *Computing in Cardiology (CinC) Conference*
+  - *IEEE International Conference on Adaptive Intelligence, Modeling and Simulation (ICAIMS) 2026*
 
  ---
 
